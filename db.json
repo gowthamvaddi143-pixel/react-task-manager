@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "user_id": "Gowtham12",
+      "user_Name": "Gowtham",
+      "password": "Gowtham123",
+      "email": "gowtham@gamil.com",
+      "id": "X04quBYXeSA"
+    },
+    {
+      "user_id": "Prasad1",
+      "user_name": "prasad",
+      "password": "prasad123",
+      "email": "prasad@1gmail.com",
+      "id": "Aob9QRYCzdU"
+    },
+    {
+      "user_id": "pavan_1",
+      "user_name": "pavankumar",
+      "password": "pavan143",
+      "email": "pavan123@gmail.com",
+      "id": "V94p51oNiKE"
+    },
+    {
+      "user_id": "Rocky_123",
+      "user_name": "ROCKY",
+      "password": "Rocky143",
+      "email": "rocky123@gmail.com",
+      "id": "55OqelkBSQY"
+    },
+    {
+      "user_id": "Ravi_8500",
+      "user_name": "RAVI",
+      "password": "Ravi8500",
+      "email": "ravi8500@gmail.com",
+      "id": "wH3PI5kKlHc"
+    },
+    {
+      "user_id": "jyothi_kothi",
+      "user_name": "H",
+      "password": "",
+      "email": "",
+      "id": "zz4UW_RGvLI"
+    },
+    {
+      "user_id": "jyothi_kothi_123",
+      "user_name": "JYOTHI_KOTHI",
+      "password": "Jyothi123",
+      "email": "jyothi123@gmail.com",
+      "id": "O5r5BYREHww"
+    }
+  ],
+  "appointments": [
+    {
+      "user_id": "Gowtham12",
+      "user_Name": "Gowtham",
+      "password": "Gowtham@143",
+      "email": "gowtham@gamil.com",
+      "id": "zZ7oQyF4g_M"
+    },
+    {
+      "title": "movie",
+      "description": "Irrumudu movie ",
+      "date": "2026-09-04",
+      "user_id": "Prasad1",
+      "id": "DkrJolfVWPk"
+    },
+    {
+      "id": "FtfrneZZdTg",
+      "title": "movie inox",
+      "description": "dj tillu2",
+      "date": "2026-09-05",
+      "user_id": "Gowtham12"
+    },
+    {
+      "title": "party",
+      "description": "birtday 10mp",
+      "date": "2026-09-03",
+      "user_id": "Gowtham12",
+      "id": "KbV1vn-cQ8Q"
+    },
+    {
+      "title": "vinayaka chavithi",
+      "description": "13night train are bus",
+      "date": "2026-09-13",
+      "user_id": "pavan_1",
+      "id": "Y8gDF0gcKvA"
+    },
+    {
+      "title": "Bike RIde",
+      "description": "Long ride 2027/07/16 \n KARALA ",
+      "date": "2027-07-16",
+      "user_id": "Rocky_123",
+      "id": "KjkD2z_-TY4"
+    },
+    {
+      "id": "yxzeD6YQJg4",
+      "title": "Polic ",
+      "description": "target a job then try to hard work then its support guys",
+      "date": "2026-09-15",
+      "user_id": "Ravi_8500"
+    },
+    {
+      "title": "vinayaka chavithi",
+      "description": "home",
+      "date": "2026-09-12",
+      "user_id": "jyothi_kothi_123",
+      "id": "6USi1qUIH3Q"
+    },
+    {
+      "title": "party",
+      "description": "9pm",
+      "date": "2026-10-20",
+      "user_id": "Prasad1",
+      "id": "SFtSqTL9-Hc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
